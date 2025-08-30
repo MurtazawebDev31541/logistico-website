@@ -1,0 +1,71 @@
+.trulyglobal {
+  font-size: 60px;
+}
+.orangecolor {
+  color: rgb(255, 94, 0);
+}
+.backgroundimage {
+  height: 86vh;
+  background-image: url(./h1_hero1.jpg);
+}
+.exploreusbutton {
+  background-color: rgb(255, 94, 0) !important;
+}
+.cardstext {
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+}
+.cardarrowbutton:hover {
+  background-color: rgb(255, 94, 0) !important;
+}
+.aboutuscolor {
+  color: rgb(255, 94, 0);
+}
+.aboutuscontent {
+  font-size: 18px;
+}
+.ourmissionlearnmore {
+  color: letestnewcardstext;
+  border: 2px solid rgb(255, 94, 0) !important;
+}
+.wegiveyoucompletepara {
+  font-size: 17px;
+}
+.needhelpbackgroundcolor {
+  background-color: rgb(255, 94, 0);
+}
+.needhelplearnmore {
+  border: 2px solid white !important;
+  background-color: rgb(255, 94, 0) !important;
+}
+.letestnewcardstext {
+  font-size: 22px;
+}
+.letestnewcardstext:hover {
+  color: rgb(255, 94, 0) !important;
+}
+.latestnewsbordercolor {
+  border: gray;
+}
+.latestnewsbordercolor:hover {
+  border-color: rgb(255, 94, 0) !important;
+}
+.textcolor {
+  color: #dddada;
+}
+.iconsend {
+  background-color: rgb(255, 94, 0) !important;
+}
+.heartcolor {
+  color: rgb(255, 94, 0) !important;
+}
+.footerbordercolor {
+  border-top: 1px solid rgb(46, 41, 41) !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .form-div {
+    display: none !important;
+    /* or use visibility: hidden; depending on what you want */
+  }
+}
