@@ -69,3 +69,9 @@
     /* or use visibility: hidden; depending on what you want */
   }
 }
+.headphonesbackgroundcolor{
+  background-color: rgb(255, 94, 0) !important;
+}
+.font-awesometextcolor{
+  color: gray;
+}
